@@ -1,0 +1,32 @@
+
+body {
+    background-color: gray;
+}
+.container {
+    width: 95%;
+    /* background-color: aqua; */
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.result {
+    width: 350px;
+    height: 500px;
+    background-color:#ffffff;
+    margin: 20px 0px 10px 20px;
+    border-radius: 5px;
+}
+.result img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+button {
+    margin: 0px 0px 0px 200px;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 14px;
+    width: 150px;
+
+}
